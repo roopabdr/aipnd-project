@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+flower_data
+flower_data/flowers.zip
+flower_data.tar
+flower_data.tar.gz
+checkpoint.pth
