@@ -105,3 +105,5 @@ flower_data/flowers.zip
 flower_data.tar
 flower_data.tar.gz
 checkpoint.pth
+ImageClassifier.tar.gz
+checkpoint_later
